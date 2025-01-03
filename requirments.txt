@@ -1,3 +1,5 @@
-4. requirements.txt
-plaintext
-Copy code
+dash
+pandas
+sqlalchemy
+pymysql
+boto3
