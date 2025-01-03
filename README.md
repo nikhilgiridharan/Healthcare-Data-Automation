@@ -160,5 +160,10 @@ Below are some sample SQL queries for additional data exploration:
 
 ---
 
+## Contributors
+- **Nikhil Giridharan**
+
+---
+
 This project provides a comprehensive healthcare analytics dashboard by automating data ingestion and supporting real-time analysis for better decision-making.
 
